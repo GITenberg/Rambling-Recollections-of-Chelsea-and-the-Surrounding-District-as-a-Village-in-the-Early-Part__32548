@@ -1,0 +1,25 @@
+_repo: Rambling-Recollections-of-Chelsea-and-the-Surrounding-District-as-a-Village-in-the-Early-Part__32548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellenor, J. B.
+    gutenberg_agent_id: '35905'
+    url: http://www.gutenberg.org/2009/agents/35905
+description: ''
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chelsea (London, England) -- History -- 19th century'
+- !lcc 'DA'
+title: "Rambling Recollections of Chelsea and the Surrounding District as a Village\
+  \ in the Early Part of the Past Century\r\nBy an Old Inhabitant"
+url: http://www.gutenberg.org/ebooks/32548
