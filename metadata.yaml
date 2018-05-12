@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35905'
     url: http://www.gutenberg.org/2009/agents/35905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32548#Rambling-Recollections-of-Chelsea-and-the-Surrounding-District-as-a-Village-in-the-Early-Part_
 gutenberg_issued: '2010-05-26'
 gutenberg_type: Text
 identifiers:
